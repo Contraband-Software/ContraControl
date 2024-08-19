@@ -1,5 +1,5 @@
 {
-    "name": "software.contraband.control.runtime",
+    "name": "software.contraband.control",
     "rootNamespace": "Software.Contraband.Control",
     "references": [],
     "includePlatforms": [],
